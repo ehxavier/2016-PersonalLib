@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<interceptors>
+		<class>br.com.ehxavier.livraria.transaction.TransactionManager</class>
+	</interceptors>
+</beans>
